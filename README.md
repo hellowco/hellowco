@@ -1,5 +1,5 @@
 
-#### Hi there, I'm Sung Eun <br><br>
+#### Hi there, <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellowco&layout=compact&theme=dark)
 
 <hr>
