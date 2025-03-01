@@ -9,7 +9,11 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" /> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=flat&logo=PostgreSQL&logoColor=white"/> &nbsp
+  <br>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/OpenSearch-005571?style=flat&logo=opensearch&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Elasticsearch-FF5700?style=flat&logo=elasticsearch&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Python-0052CC?style=flat&logo=Python&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=%23FF9900" /> &nbsp
@@ -37,7 +41,6 @@
 <p align="left">  
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=MongoDB&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=flat&logo=PostgreSQL&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/HTML5-F06529?style=flat&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=JavaScript&logoColor=%23F7DF1E"/> &nbsp
